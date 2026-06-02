@@ -96,19 +96,19 @@ private bool ValidarCampos()
 
 ## 📸 Formulario Principal
 
-<img src="./1.png" width="800"/>
+<img src="./1.jpg" width="800"/>
 
 ---
 
-## 📸 Validaciones del Sistema
+## 📸 Datos Guardados
 
-<img src="./2.png" width="800"/>
+<img src="./2.jpg" width="800"/>
 
 ---
 
-## 📸 Diseño de la Interfaz
+## 📸 Prueba del ErrorProvider
 
-<img src="./3.png" width="800"/>
+<img src="./3.jpg" width="800"/>
 
 ---
 
@@ -128,12 +128,3 @@ private bool ValidarCampos()
 
 ---
 
-# 💗 Nota Final
-
-Proyecto realizado con dedicación, creatividad y esfuerzo académico, fortaleciendo conocimientos en:
-
-- Desarrollo de aplicaciones de escritorio
-- Validaciones en formularios
-- Manejo de excepciones
-- Diseño de interfaces gráficas
-- Programación en C# Windows Forms

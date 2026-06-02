@@ -1,0 +1,11 @@
+C:\Users\pc\Downloads\GUI\UltimaTarea\bin\Debug\UltimaTarea.exe.config
+C:\Users\pc\Downloads\GUI\UltimaTarea\bin\Debug\UltimaTarea.exe
+C:\Users\pc\Downloads\GUI\UltimaTarea\bin\Debug\UltimaTarea.pdb
+C:\Users\pc\Downloads\GUI\UltimaTarea\obj\Debug\UltimaTarea.csproj.AssemblyReference.cache
+C:\Users\pc\Downloads\GUI\UltimaTarea\obj\Debug\UltimaTarea.Properties.Resources.resources
+C:\Users\pc\Downloads\GUI\UltimaTarea\obj\Debug\UltimaTarea.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\GUI\UltimaTarea\obj\Debug\UltimaTarea.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\GUI\UltimaTarea\obj\Debug\UltimaTarea.exe
+C:\Users\pc\Downloads\GUI\UltimaTarea\obj\Debug\UltimaTarea.pdb
+C:\Users\pc\Downloads\GUI\UltimaTarea\obj\Debug\UltimaTarea.exe.config
+C:\Users\pc\Downloads\GUI\UltimaTarea\obj\Debug\UltimaTarea.Form1.resources

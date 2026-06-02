@@ -59,17 +59,6 @@ El sistema incluye validaciones importantes como:
 
 ---
 
-# 🎨 Características de la Interfaz
-
-- Diseño organizado y moderno
-- Formulario maximizado automáticamente
-- Uso de colores personalizados
-- Panel superior decorativo
-- Botones estilizados
-- Interfaz amigable y fácil de entender
-
----
-
 # 💻 Fragmento de Código Importante
 
 ## ✅ Validación de Campos
@@ -103,69 +92,26 @@ private bool ValidarCampos()
 ```
 
 ---
-
 # 🖼️ Evidencias del Proyecto
 
 ## 📸 Formulario Principal
 
-![Formulario Principal](1.png)
+<img src="./1.png" width="800"/>
 
 ---
 
 ## 📸 Validaciones del Sistema
 
-![Validaciones](2.png)
+<img src="./2.png" width="800"/>
 
 ---
 
 ## 📸 Diseño de la Interfaz
 
-![Diseño del Sistema](3.png)
+<img src="./3.png" width="800"/>
 
 ---
 
-# 🚀 Ejecución del Proyecto
-
-## 📥 Clonar el repositorio
-
-```bash
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
-```
-
----
-
-## ▶️ Abrir el proyecto
-
-1. Abrir **Visual Studio 2022**
-2. Ejecutar el archivo:
-
-```bash
-UltimaTarea.sln
-```
-
-3. Presionar:
-
-```bash
-Ctrl + F5
-```
-
----
-
-# 📂 Estructura del Proyecto
-
-```bash
-📁 UltimaTarea
- ┣ 📄 Form1.cs
- ┣ 📄 Form1.Designer.cs
- ┣ 📄 Program.cs
- ┣ 📄 App.config
- ┣ 📄 1.png
- ┣ 📄 2.png
- ┣ 📄 3.png
- ┗ 📄 UltimaTarea.sln
-```
-
----
 
 # 🎓 Contexto Académico
 
